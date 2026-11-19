@@ -32,7 +32,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - **Engineering Manager-2** (Oct 2025 - Present) - **Turing** (Hyderabad, Remote)
   - Leads a team of up to 20 on LLM and AI agent evaluation for Amazon T-Bench (team lead only: a senior engineering manager and a strategic lead own overall project direction); collaborates with tooling teams
   - Led teams of up to 10 engineers building SWE-bench coding benchmarks for Anthropic and Meta (bug injection into real repositories; 1,500+ datasets and evaluations)
-  - Directed engineers in designing 1-7 milestone coding tasks; scored agents across harnesses (OpenCode and others) on correctness, agent behavior and code style
+  - Directed engineers in designing 1-7 milestone coding tasks; scored agents across harnesses (Claude Code and others) on correctness, agent behavior and code style
   - Co-led data-quality improvements with the tooling team (dataset and AutoQA tooling requirements, task-assignment controls)
   - Evals and Rubric Validator workflow improvements: 30% higher dataset review throughput
 - **Engineering Manager** (Oct 2022 - Sep 2025) - **Fynd (Shopsense Retail Technologies Ltd.)** (Mumbai)
@@ -55,6 +55,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - **Domain:** Payments, checkout and commerce platforms; LLM/agent evaluation (SWE-bench, RLHF); healthcare AI; GDPR/SOC2 compliance; engineering leadership (teams up to 20)
 - **Basic Java:** hands-on basic Java experience (user-confirmed 2026-11-17); not production Java/Spring work. Java is a partial match, not a core stack.
 - **Not a fit:** C#/.NET (no experience), frontend (only very basic React.js), Android, iOS/mobile, Kotlin; Java as a core stack is a partial match only. Heavily backend-focused engineer and leader.
+- **AI-assisted development:** uses Claude Code to write code in personal projects and at Fynd and Turing (user-confirmed 2026-11-18)
 - **Software:** AWS, GCP, Kubernetes, Docker, Terraform; GitHub Actions, Jenkins, SonarQube; Prometheus, Grafana, New Relic, Sentry, Jaeger, ELK; OpenAI, Vertex AI, LangSmith, MCP
 
 ### Certifications

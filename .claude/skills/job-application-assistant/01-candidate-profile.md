@@ -47,7 +47,7 @@ Hyderabad, India (Remote)
 **Master CV bullets (user-supplied wording, 2026-11-18; prefer these over older phrasings):**
 - Led a 20-member team delivering τ-bench (Amazon T-Bench / Tau-bench) LLM and AI agent evaluation programs, owning execution and evaluation quality.
 - Led teams of up to 10 engineers building SWE-bench coding benchmarks for two frontier AI labs (Anthropic and Meta; name them only where NDA-safe), injecting bugs into real repositories; delivered 1,500+ datasets and evaluations.
-- Directed engineers in designing 1-7 milestone coding tasks, scoring agents across harnesses (OpenCode and others) on correctness, agent behavior and code style. (User revision 2026-11-18: directed the design rather than designing personally; Claude Code deliberately not named as a harness.)
+- Directed engineers in designing 1-7 milestone coding tasks, scoring agents across harnesses (Claude Code and others) on correctness, agent behavior and code style. (User revision 2026-11-18: directed the design rather than designing personally; Claude Code named as the harness, user-confirmed 2026-11-18, replacing OpenCode.)
 - Co-led data-quality improvements with the tooling team, defining dataset and AutoQA tooling requirements and hardening task-assignment controls.
 - Partnered with platform and tooling teams on Evals and Rubric Validator workflows, contributing to a 30% improvement in dataset review throughput.
 
@@ -109,6 +109,7 @@ Gurgaon, India
 - **Not in profile:** C#/.NET (no experience, user-confirmed 2026-11-17), frontend (only very basic React.js knowledge), Android, iOS/mobile, Kotlin. Heavily backend-focused - never present frontend or mobile skills in applications.
 - **Backend & Frameworks:** Node.js, FastAPI, Django, Express, REST APIs, GraphQL
 - **Distributed Systems & Architecture:** Microservices, Kafka, Temporal, Event-Driven Architecture
+- **AI-assisted development (user-confirmed 2026-11-18):** uses Claude Code to write code in personal projects and in engineering work at Fynd and at Turing. Evidence for postings asking for AI in your own engineering work or AI-DLC. Do not claim it was used for every Fynd project or upgrade it to "daily".
 - **AI/LLM Engineering:** LLM Evaluation, Prompt Engineering (user-confirmed 2026-11-18), AI Agents, LangGraph, RAG, MCP, OpenAI, Vertex AI, LangSmith
 - **Databases & Storage:** PostgreSQL, MySQL, Redis, MongoDB, Elasticsearch, pgvector
 - **Data Engineering:** BigQuery, CDC, Dataflow, Datastream
